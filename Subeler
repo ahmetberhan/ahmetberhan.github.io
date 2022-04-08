@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <link rel="icon" type="image/x-icon" href="images/as2213.png">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <link rel="stylesheet" href="style.css">
+    <title>Kardeşler Pide Şubeler</title>
+</head>
+
+
+<body>
+    <article>
+       
+        <body background="images/minimalistic-gray-textures-canvas-2560x1440-abstract-textures-hd-art-wallpaper-preview.jpg"></body>
+<h1 style="color: rgb(255, 255, 255);" >Kardeşler Pide ( Şubeler )</h1>
+    </article>
+    <ul id="myUL">
+        <li><a class="activate" href="index.html">Anasayfa</a></li>
+        <li><a href="menu.html">Menu</a></li>
+        <li><a href="Subeler.html">Şubeler</a></li>
+        <li><a href="Galeri.html">Galeri</a></li>
+        <li><a href="sepet.html">Sepetim</a></li>
+        <li><a href="tarihce.html">Tarihçemiz</a></li>
+
+
+    </ul>
+   <br>
+    <b><center><h2 style="color: white;">Şubelerimiz</h2></center></b>
+    <br>
+    <img src="images/Opera Anlık Görüntü_2022-04-08_175826_www.kardeslerpidekebap.com.png"  align="left" style="float: left;" width="750" height="300">
+    <br>
+    <br>    <br>
+    <br>
+
+    <center>  <b>
+        <p style="color: white;">Merkez</p>
+        <p style="color: white;">
+        Kardeşler Pide, Kebap ve Yemek Salonu
+        Şehremini mahallesi Başvekil Caddesi No: 26/a
+       </p>
+       <p style="color: white;">Telefon:(212) 587 04 24  Telefon:(212) 529 72 21 Faks:(212) 529 72 21</p> </b>
+    </center>
+
+    <br>
+    <br><br>
+    <br><br>
+    <br><br>
+    <br><br>
+
+    <img src="images/Opera Anlık Görüntü_2022-04-08_175842_www.kardeslerpidekebap.com.png"  align="left" style="float: left;"  width="750" height="300">
+<br><br>    
+<center> <b>
+<p style="color: white;">Şube</p>
+<p style="color: white;">   
+    Kardeşler Köfte Salonu Şehremini mahallesi Başvekil Caddesi No: 44/a
+</p>
+<p style="color: white;">Telefon:(212) 587 04 24Telefon:(212) 632 88 42 Telefon:(212) 632 09 12</p>
+</b>    </center>
+
+
+
+><br><br><br><br><br><br><br><br><br>
+
+<ul id="myUL">
+    <li><a class="activate" href="index.html"></a></li>
+   
+<center>
+   <p style="color: white;">© Kardeşler Pide 2022  •  Mevlüt Pehlivan Cd. Vefa Deresi Sk. No:2/A, Gayrettepe - İstanbul  •  Tel: (535) 0434434  •  Design by BERHAN</p> 
+</center>
+   
+  
+</body>
+</html>
