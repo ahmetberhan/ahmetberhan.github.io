@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <link rel="icon" type="image/x-icon" href="images/as2213.png">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <link rel="stylesheet" href="style.css">
+    <title>Kardeşler Pide Tarihçe</title>
+</head>
+
+
+<body>
+    <article>
+       
+        <body background="images/minimalistic-gray-textures-canvas-2560x1440-abstract-textures-hd-art-wallpaper-preview.jpg"></body>
+<h1 style="color: rgb(255, 255, 255);" >Kardeşler Pide ( Tarihçe )</h1>
+    </article>
+    <ul id="myUL">
+        <li><a class="activate" href="index.html">Anasayfa</a></li>
+        <li><a href="menu.html">Menu</a></li>
+        <li><a href="Subeler.html">Şubeler</a></li>
+        <li><a href="Galeri.html">Galeri</a></li>
+        <li><a href="sepet.html">Sepetim</a></li>
+        <li><a href="tarihce.html">Tarihçemiz</a></li>
+
+    </ul>
+
+    <br><br>        
+   <center>
+    <div class="text-center hakkimizda" style="color: white;">
+    <div class="title" style="color: aqua;">TARİHÇEMİZ</div>
+
+        <br />
+        1966 yılında İstanbul’un Fatih ilçesi Çapa, Başvekil Caddesinde kurucumuz Sn. Ömer ÖZEN ve ortakları ile kurulan “Bolu Mevsim Lokantası” unvanı ile lezzet ve kaliteden ödün vermeden zengin ev yemekleri çeşitlerimizle öğrenci ve esnaflarımıza ev sahipliği yapmış; sizlerden aldığımız güven ve talep doğrultusunda 1975 yılında yine aynı semtte Vezir Caddesi’nde “Şafak Lokantası” unvanı ile, 1978 yıllarında Fatih ilçesi Uzunyusuf Mahallesi Mecitbey Sokakta “Karadeniz yayla Lokantası” unvanıyla ortak çalışmalarımızla siz değerli müşterilerimize hizmet vermeye devam etmiştir.<br /><br />
+    
+    1994 Mart ayında tekrar Fatih ilçesi Ahmet Vefik Paşa Caddesinde üzerinde “Kardeşler Lezzet Lokantası” unvanı ile ortaklarımızdan ayrılıp kurucumuz Sn. Ömer ÖZEN ve oğullarıyla esnaf lokantası konseptinde semtimize ve öğrencilerimize hitap etmeye devam etmiştir. Sizlerin ilgisi ve talepleriyle büyüyen “Kardeşler” 1966 yılında daha önce hizmet vermekte olduğumuz Vezir Caddesindeki işyerimizi eski ortaklarımızdan devralarak “Kardeşler Pide ve Kebap Salonu” unvanı ile pide ve kebap sektörüyle tanışmıştır, burada da hizmet ve kalitesinden ödün vermeyerek değerli kadrosuyla hizmetini sürdürmüş kısa zamanda sizlerin beğenisini kazanmıştır. Bunun akabinde “2001” yılında Başvekil Caddesi No:44/C şu an hizmet vermeye devam ettiğimiz “Kardeşler Köfte ve Yemek salonu” unvanı ile yepyeni vizyon ve kalitesiyle üçüncü lokantamızı açarak burada da Sultanahmet Köftesi ve zengin yemek çeşitleriyle servis kalitesini arttırmış, müşteri memnuniyetinden ödün vermeden sizlerin uğrak mekanı olma yolunda hızla yol almıştır.<br /><br />
+    
+    2007-Mayıs ayında Vezir Caddesi No:8’de bulunan “Kardeşler Pide Kebap Salonu” ünvanlı işyerimizi Başvekil Caddesi No:26/A ya taşıyarak şu an hizmet vermeye devam ettirdiğimizi “Kardeşler Pide Kebap ve Yemek Salonu” unvanı olan yeni yerimizde nezih ve ferah ortamda 52 kişilik salonumuzda yıllardır süre gelen müşteri memnuniyeti değerli kadrosu ve güler yüzlü emektar personeliyle sizlere hizmet vermenin onurunu yaşamaya devam etmekteyiz.<br /><br />
+    
+    2010 yılında Ahmet Vefik Paşa Caddesinde sizlere hizmet verdiğimiz “Kardeşler Lezzet Lokantası’nı” devrederek sadece Başvekil Caddesinde  No:44/C Kardeşler Köfte ve Yemek Salonu ve 26/A’ da Kardeşler Pide ve Yemek Salonu olarak hizmet verdiğimizi sizlere tekrar hatırlatmak isteriz. <br /><br />
+    Yıllarca süre gelen ticaretimizde siz değerli dostlarımız ve misafirlerimizin bizleri tercih etmesi sonucu bu mesleği dededen toruna devam ettirebiliyor olmamız bizlerin değil sizlerin eseridir. Yarım asır a dayanan müşteri memnuniyeti, hizmet anlayışımızın ve sizlere hizmet verme gururumuzun asırlarca devam etmesini temenni eder esenlikler dileriz. Saygı ve Sevgilerimizle;<br />
+                <br /> 
+
+<br>
+                <b>Ahmet Keklik, Berhan -  Berhan - Berhan ve Oğulları</b>
+                </div>
+            </center>
+
+
+
+            
+   <br>
+   <br><br><br>
+   
+  
+  
+
+   <ul id="myUL">
+    <li><a class="activate" href="index.html"></a></li>
+
+<center>
+   <p style="color: white;">© Kardeşler Pide 2022  •  Mevlüt Pehlivan Cd. Vefa Deresi Sk. No:2/A, Gayrettepe - İstanbul  •  Tel: (535) 0434434  •  Design by BERHAN</p> 
+</center>
+
+</body>
+</html>
