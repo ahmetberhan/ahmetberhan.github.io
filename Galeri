@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <link rel="icon" type="image/x-icon" href="images/as2213.png">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <link rel="stylesheet" href="style.css">
+    <title>Kardeşler Pide Galeri</title>
+</head>
+
+
+<body>
+    <article>
+       
+        <body background="images/minimalistic-gray-textures-canvas-2560x1440-abstract-textures-hd-art-wallpaper-preview.jpg"></body>
+<h1 style="color: rgb(255, 255, 255);" >Kardeşler Pide ( Galeri )</h1>
+    </article>
+    <ul id="myUL">
+        <li><a class="activate" href="index.html">Anasayfa</a></li>
+        <li><a href="menu.html">Menu</a></li>
+        <li><a href="Subeler.html">Şubeler</a></li>
+        <li><a href="Galeri.html">Galeri</a></li>
+        <li><a href="sepet.html">Sepetim</a></li>
+        <li><a href="tarihce.html">Tarihçemiz</a></li>
+
+        
+        
+    </ul>
+    <br><br>
+    <img src="images/g1.jpg"  align="center" style="float: center;" >
+    <img src="images/g2.jpg"  align="center" style="float: center;" >
+    <img src="images/g3.jpg"  align="center" style="float: center;" >
+    <img src="images/g4.jpg"  align="center" style="float: center;" >
+    <img src="images/g5.jpg"  align="center" style="float: center;" >
+    <img src="images/g6.jpg"  align="center" style="float: center;" >
+    <img src="images/g7.jpg"  align="center" style="float: center;" >
+    <img src="images/g8.jpg"  align="center" style="float: center;" >
+
+<br><br>
+
+<ul id="myUL">
+    <li><a class="activate" href="index.html"></a></li>
+
+<center>
+   <p style="color: white;">© Kardeşler Pide 2022  •  Mevlüt Pehlivan Cd. Vefa Deresi Sk. No:2/A, Gayrettepe - İstanbul  •  Tel: (535) 0434434  •  Design by BERHAN</p> 
+</center>
+
+</body>
+</html>
